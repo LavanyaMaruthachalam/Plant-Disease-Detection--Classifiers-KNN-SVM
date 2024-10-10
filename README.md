@@ -1,7 +1,7 @@
 # Plant Disease Detection Using Image Processing and Machine Learning
 This MATLAB project implements a plant disease detection system using image processing and machine learning techniques. It leverages a dataset of plant leaf images to classify various plant diseases using Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) classifiers.
 
-*Project Overview*
+Project Overview  
 The project involves several key steps, including:
 
 Image preprocessing (resizing, grayscale conversion, edge detection, and segmentation).
