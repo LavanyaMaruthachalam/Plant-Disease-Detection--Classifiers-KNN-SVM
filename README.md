@@ -1,0 +1,1 @@
+# Plant-Disease-Detection--Classifiers-KNN-SVM
