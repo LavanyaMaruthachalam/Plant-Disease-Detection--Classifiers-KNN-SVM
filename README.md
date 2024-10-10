@@ -31,13 +31,13 @@ Color features (average RGB values) are extracted from each image and used as in
 **KNN (K-Nearest Neighbors):** A KNN model is trained using the same feature set for comparison.  
 **Model Evaluation:**  
   
-Both models are evaluated on the test set. Accuracy is calculated, and confusion matrices are visualized to show classification performance.
+Both models are evaluated on the test set. Accuracy is calculated, and confusion matrices are visualized to show classification performance.  
 **Results**  
 The models classify plant diseases based on color features, and their performance is evaluated with accuracy metrics and confusion matrices.
 
 **Future Enhancements**  
 This project can be further improved by:  
   
-Including more advanced feature extraction techniques such as texture or shape analysis.  
-Increasing the dataset size for better generalization of the models.  
-Experimenting with deep learning models (e.g., Convolutional Neural Networks) for improved accuracy.
+1.Including more advanced feature extraction techniques such as texture or shape analysis.  
+2.Increasing the dataset size for better generalization of the models.  
+3.Experimenting with deep learning models (e.g., Convolutional Neural Networks) for improved accuracy.
